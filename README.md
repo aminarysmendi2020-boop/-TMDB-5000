@@ -4,4 +4,5 @@
 # Бизнес-задача:
 Какие фильмы с какими характеристиками(бюджет, год выпуска, рейтинг,количество голосов) приносят наибольшую прибыль (profit) и ROI (roi)?
 # Графики
+<img width="933" height="675" alt="image" src="https://github.com/user-attachments/assets/ccd45edd-0a79-46c1-b70c-34733d51b6cf" />
 
